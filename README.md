@@ -1,2 +1,2 @@
 # VSCodeSettings
-My Personal VSCode settings and CSS
+VSCode settings and CSS to be used for Wildcat Robotics
